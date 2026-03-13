@@ -20,6 +20,7 @@ I build in public to stay close to the technology I manage. These repos reflect 
   - **[AI-news-digest](https://github.com/spalit2025/AI-news-digest)** -- Staying current on AI
   research means scanning dozens of sources daily. This aggregates, summarizes, and generates
   structured digest reports automatically via a simple web interface.
+  - **[Real-estate-investment-copilot](https://github.com/spalit2025/real_estate_investment_copilot)** -- real_estate_investment_copilot --   Real estate investors underwrite deals in spreadsheets with no audit trail. This generates professional investment memos with IRR, sensitivity analysis, and tax-adjusted cashflows ,backed by a deterministic financial model where AI writes the narrative but not the numbers.
 
   **Get in touch:** [sandip.palit@gmail.com](mailto:sandip.palit@gmail.com) ·
   [LinkedIn](https://www.linkedin.com/in/sandippalit)
