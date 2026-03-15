@@ -7,6 +7,7 @@ I ship GenAI products at Meta that automate billion-dollar accounting workflows 
 I build in public to stay close to the technology I manage. These repos reflect how I think about AI product problems:
   
   **What I'm building:**
+  - **[DualEdge](https://github.com/spalit2025/DualEdge)** -- Single-agent AI analysis produces confident-sounding recommendations with no opposing view. DualEdge pits a Value Analyst against a Technical Analyst, each applying 6 proven investment frameworks, then forces a structured debate when they disagree. The result is a transparent recommendation with full reasoning trail, explicit change conditions, and a zero-cost daily scanner that monitors 18 trigger conditions across your portfolio.
   - **[Deep-research-agent](https://github.com/spalit2025/Deep-research-agent)** -- Research report
   creation is manual, inconsistent, and slow. This automates the full pipeline from web search to
   structured report with smart caching (70-90% cost reduction) and a prompt versioning system for
@@ -24,4 +25,3 @@ I build in public to stay close to the technology I manage. These repos reflect 
 
   **Get in touch:** [sandip.palit@gmail.com](mailto:sandip.palit@gmail.com) ·
   [LinkedIn](https://www.linkedin.com/in/sandippalit)
-
